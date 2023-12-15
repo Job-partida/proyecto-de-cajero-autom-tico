@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #02033d;
+}
+
+.Saldo{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    color: #FAF8F8;
+    padding-top: 15px;
+    
+}
+
+.T{
+    color: #FAF8F8;
+    background-color: #940909;
+    border: 4px solid #0c0102;
+    width: 35%;
+}
+
+.T::placeholder{
+    color: #FAF8F8;
+}
+
+.O{
+    display: flex;
+    justify-content: baseline;
+    padding-top: 30px;
+    padding-left: 40%;
+}
+
+.retirar{
+    display: flex;
+    justify-content: center;
+    color: #FAF8F8;
+    padding-top: 40px;
+    font-size: 50px;
+   
+}
+
+.In{
+    color: #FAF8F8;
+    width: 70px;
+    height: 35px;
+    border: solid 4px #110203;
+}
+
+.In:hover{
+    background-color: #FAF8F8;
+    cursor: pointer;
+    color: #020858;
+}
+
+.ton{
+    padding-left: 2%;
+
+}
+
+.bo{
+    padding-left: 2%;
+    
+}
+
+h2{
+    color: #d66c6c;
+    display: flex;
+    justify-content: center;
+    border: solid 2px red;
+    border-radius: 50%;
+}
+
+.s{
+    border: solid 4px #e20e0e;
+    width: 30%;
+    margin-left: 32%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #cd1624;
+}
+.dine{
+    padding-left: 45%;
+    padding-top: 40px;
+}
